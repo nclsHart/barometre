@@ -6,13 +6,13 @@
                 <source>menu.about</source>
                 <target>A propos du baromètre</target>
             </trans-unit>
-            <trans-unit id="menu.result2015">
-                <source>menu.result2015</source>
-                <target>Résultats 2015</target>
-            </trans-unit>
             <trans-unit id="menu.result2016">
                 <source>menu.result2016</source>
                 <target>Résultats 2016</target>
+            </trans-unit>
+            <trans-unit id="menu.result2017">
+                <source>menu.result2017</source>
+                <target>Résultats 2017</target>
             </trans-unit>
             <trans-unit id="menu.results">
                 <source>menu.results</source>
@@ -181,6 +181,10 @@
             <trans-unit id="report.view.response_number">
                 <source>report.view.response_number</source>
                 <target>Nombre de réponses</target>
+            </trans-unit>
+            <trans-unit id="report.view.response_percent">
+                 <source>report.view.response_percent</source>
+                 <target>Pourcentage de réponses</target>
             </trans-unit>
             <trans-unit id="report.view.company_size">
                 <source>report.view.company_size</source>
